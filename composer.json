@@ -1,0 +1,14 @@
+{
+    "name": "phpantastic/coding-standard",
+    "description": "PHPantastic coding standard",
+    "license": "MIT",
+    "keywords": [
+        "coding standard"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
+}
